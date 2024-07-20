@@ -1,0 +1,104 @@
+body {
+    color: rgb(180, 173, 173);
+    background: rgb(41, 43, 41);
+}
+
+#box {
+    width: 1000px;
+    height: 1000px;
+    background: rgb(41, 43, 41);
+    text-align: left;
+    margin-top: 25px;
+    margin-left: 250px;
+    margin-bottom: 300px;
+    margin-right: 250px;
+}
+
+#box1 {
+    background: rgb(48, 51, 48);
+    border-color: rgb(165, 165, 148);
+}
+
+#box3 {
+    border-color: rgb(53, 53, 61);
+    text-align: center;
+    
+
+}
+
+#b1 {
+    border-color: rgb(77, 87, 77);
+}
+
+#block {
+    margin-left: 90px;
+}
+
+#blk {
+    margin-left: 10px;
+}
+
+h5 {
+    text-align: left;
+    margin-left: 50px;
+}
+
+.page-item {
+    width: 250px;
+    border-right: 1px;
+}
+
+.page-link {
+  border: 0cap;
+}
+
+#bd{
+    border-style: dotted;
+    border-color: rgb(165, 128, 148);
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    border-width: 2px;
+    
+}
+
+#t1 {
+    text-align: left;
+    color: rgb(121, 128, 134);
+    margin-left: 100px;
+    margin-top: 60px;
+    font-weight: 400;
+}
+#link{
+    text-decoration: none;
+    
+}
+
+#t2 {
+    text-align: left;
+    color: rgb(187, 193, 196);
+    margin-left: 100px;
+    margin-top: 2px;
+    font-weight: 10;
+}
+a {
+    color: rgb(173, 179, 176);
+}
+#page {
+    text-align: center;
+}
+
+ #list2,#list3,#list4,#list5,#list6{
+    border-right: 0cap;
+    border-color: rgb(169, 175, 182);
+    border-style: dotted;
+    border-radius: 25%;
+    border-bottom: 0cap;
+    border-top: 0cap;
+    
+ }
+ footer {
+    background-color: #1d211e;
+    padding: 50px;
+    text-align: center;
+}
